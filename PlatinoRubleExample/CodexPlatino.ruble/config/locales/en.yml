@@ -1,0 +1,7 @@
+en:
+  bundle_name: 'Codex Platino SDK'
+  bundle_description: 'Support for the Platino Game Engine by Lanica. Alloy Powered'
+  api_reference: 'API Reference'
+  developer_center: 'Titanium Mobile Developer Center'
+  codex_platino_application: "Alloy Platino Application"
+  codex_platino_application_desc: "This is a production useful starting point for building real 2D and 2.5D games with Platino. Alloy Powered. "
